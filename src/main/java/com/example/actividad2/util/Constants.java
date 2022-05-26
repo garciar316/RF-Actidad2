@@ -1,0 +1,70 @@
+package com.example.actividad2.util;
+
+import com.example.actividad2.model.Correo;
+
+import java.util.Arrays;
+import java.util.List;
+
+public class Constants {
+
+    public static final List<Correo> CORREOS = Arrays.asList(
+            new Correo("@hotmail", true),
+            new Correo("sergio980316@hotmail.com", false),
+            new Correo("gerald.e2309@gmail.com", true),
+            new Correo("dimar260212@gmail.com", false),
+            new Correo("berrioromanjonatan@gmail.com", false),
+            new Correo("kamilaa.mena@gmail.com", false),
+            new Correo("jfsofkau@gmail.com", true),
+            new Correo("salviega6@gmail.com", false),
+            new Correo("juanpatoro2011@gmail.com", true),
+            new Correo("juanesdm3@gmail.com", true),
+            new Correo("salviega6@gmail.com", false),
+            new Correo("claudiaa2343@gmail.com", true),
+            new Correo("danielgranados1992@hotmail.com", true),
+            new Correo("yesidmenapersonal@gmail.com", true),
+            new Correo("salviega6@gmail.com", false),
+            new Correo("mardrex88@gmail.com", true),
+            new Correo("salviega6@gmail.com", false),
+            new Correo("juanlondonoierml@gmail.com", true),
+            new Correo("dimar260212@gmail.com", false),
+            new Correo("jc.mesadeveloper@gmail.com", true),
+            new Correo("dml2410@gmail.com", true),
+            new Correo("aura.russill@gmail.com", true),
+            new Correo("salviega6@gmail.com", false),
+            new Correo("casanova01_a@outlook.com", true),
+            new Correo("salviega6@gmail.com", false),
+            new Correo("casanova01_a@gmail.com", true),
+            new Correo("luisfelorivas@outlook.com", true),
+            new Correo("salviega6@hotmail.com", false),
+            new Correo("salviega6@gmail.com", false),
+            new Correo("lcastro0398@gmail.com", true),
+            new Correo("salviega6@gmail.com", false),
+            new Correo("dimar260212@gmail.com", true),
+            new Correo("salviega6@gmail.com", false),
+            new Correo("salviega6@gmail.com", false),
+            new Correo("sergio980316@gmail.com", false),
+            new Correo("salviega6@gmail.com", false),
+            new Correo("camila.moralesg21@gmail.com", true),
+            new Correo("salviega6@gmail.com", false),
+            new Correo("rodrigo.gallego@outlook.es", true),
+            new Correo("salviega6@gmail.com", false),
+            new Correo("naranjobenavidesd@gmail.com", true),
+            new Correo("salviega6@gmail.com", false),
+            new Correo("juandiego619@gmail.com", true),
+            new Correo("salviega6@gmail.com", false),
+            new Correo("mapi321000@gmail.com", true),
+            new Correo("salviega6@gmail.com", false),
+            new Correo("ss.rodriguez00021@hotmail.com", true),
+            new Correo("salviega6@gmail.com", false),
+            new Correo("titagena@gmail.com", true),
+            new Correo("andres.castaneda280040@gmail.com", true),
+            new Correo("salviega6@gmail.com", false),
+            new Correo("reyesjorge0116@gmail.com", true),
+            new Correo("jefryzarateruiz@outlook.com", true),
+            new Correo("salviega6@gmail.com", false),
+            new Correo("richardvellojin@hotmail.com", true),
+            new Correo("salviega6@gmail.com", false),
+            new Correo("juanpos1234@gmail.com", true),
+            new Correo("salviega6@gmail.com", false)
+    );
+}
